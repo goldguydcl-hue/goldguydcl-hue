@@ -13,5 +13,8 @@ Compares bullion prices from US dealers, checked about hourly. Gold, silver and 
 ### [OunceScout](https://ouncescout.com)
 Shows live gold, silver, platinum and palladium spot prices, the gold-to-silver ratio, and delivered bullion prices across 23+ verified US dealers.
 
+## Community
+- [Gold & Silver Stackers | Bullion, Coins & Precious Metals](https://www.linkedin.com/groups/99194/), a LinkedIn group with 8K+ members
+
 ## Contact
 hello@bullionpricecheck.com
